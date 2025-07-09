@@ -3,7 +3,7 @@
 📘 Introduction to NumPy: The building blocks of Python for Data Science & ML
 
 📥 DOWNLOAD NOTEBOOK HERE:    
-[Click to Download](https://raw.githubusercontent.com/santhoshkumar122334455/python-basic-to-advance/main/07_Data_Science_Libraries/Session1_NumPy_Fundamentals.ipynb)  
+[Click to Download]([https://raw.githubusercontent.com/santhoshkumar122334455/python-basic-to-advance/main/07_Data_Science_Libraries/Session1_NumPy_Fundamentals.ipynb](https://raw.githubusercontent.com/santhoshkumar122334455/python-_basic_-to-_advance/refs/heads/main/07_Data_Science_Libraries/Session1_NumPy_Fundamentals.ipynb))  
 
 
 ▶️ **Run it in Google Colab**:  
