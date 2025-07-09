@@ -13,7 +13,7 @@
 
 
 📥 **Download notebook (.ipynb)**:  
-[Click to Download](https://raw.githubusercontent.com/santhoshkumar122334455/python-basic-to-advance/main/07_Data_Science_Libraries/Session2_Advanced_NumPy.ipynb)  
+[Click to Download](https://github.com/santhoshkumar122334455/python-_basic_-to-_advance/blob/main/07_Data_Science_Libraries/Session2_Advanced_NumPy.ipynb)  
 *(If it opens in the browser, right-click → Save As)*
 
 ▶️ **Run in Google Colab**:  
