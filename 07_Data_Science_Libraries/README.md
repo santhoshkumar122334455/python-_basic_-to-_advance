@@ -4,16 +4,8 @@
 
 📥 DOWNLOAD NOTEBOOK HERE:    
 ## ✅ Session 1: NumPy Fundamentals
+[Click to Download](https://raw.githubusercontent.com/santhoshkumar122334455/python-basic-to-advance/main/07_Data_Science_Libraries/Session1_NumPy_Fundamentals.ipynb)
 
-📘 The foundation of all machine learning and data science work.
-📥 **Download notebook (.ipynb)**:  
-[Click to Download](https://raw.githubusercontent.com/santhoshkumar122334455/python-basic-to-advance/main/07_Data_Science_Libraries/Session1_NumPy_Fundamentals.ipynb)  
-*(If it opens in the browser, right-click → Save As)*
-
-▶️ **Run in Google Colab**:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santhoshkumar122334455/python-basic-to-advance/blob/main/07_Data_Science_Libraries/Session1_NumPy_Fundamentals.ipynb)
-
-📌 Topics: array creation, slicing, reshaping, stacking, operations, and more.
 
 
 
